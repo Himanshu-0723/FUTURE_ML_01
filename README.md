@@ -1,4 +1,4 @@
-<img width="1903" height="726" alt="average_monthly" src="https://github.com/user-attachments/assets/d157686e-1c2a-4993-86f3-f5306fd876d7" />📊 Superstore Sales Forecast & Analysis Dashboard
+📊 Superstore Sales Forecast & Analysis Dashboard
 
 An interactive dashboard built with Streamlit, Prophet and Plotly to visualize historical sales, detect trends & outliers, and forecast future daily sales for a retail superstore dataset.
 
