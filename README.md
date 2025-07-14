@@ -1,10 +1,10 @@
-📊 Superstore Sales Forecast & Analysis Dashboard
+# 📊 Superstore Sales Forecast & Analysis Dashboard
 
 An interactive dashboard built with Streamlit, Prophet and Plotly to visualize historical sales, detect trends & outliers, and forecast future daily sales for a retail superstore dataset.
 
 ---
 
-✨ Features
+# ✨ Features
 
 ✅ Forecast future sales using Prophet with holiday effects
 
@@ -24,7 +24,7 @@ An interactive dashboard built with Streamlit, Prophet and Plotly to visualize h
 
 ---
 
-🛠 Built With
+# 🛠 Built With
 
 - Python
 
@@ -38,7 +38,7 @@ An interactive dashboard built with Streamlit, Prophet and Plotly to visualize h
 
 ---
 
-📦 Project Structure
+# 📦 Project Structure
 ```
 ├── app.py                  # Streamlit app
 ├── code.ipynb
@@ -50,7 +50,7 @@ An interactive dashboard built with Streamlit, Prophet and Plotly to visualize h
 
 ---
 
-📷 Screenshots / Visualizations
+# 📷 Screenshots / Visualizations
 
 Here are some of the interactive charts & insights included in the dashboard:
 
